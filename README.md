@@ -1,4 +1,4 @@
 Wall-Following
 ==============
 
-Old Java program written in an Artificial Intelligence class at uni
+Old Java program written several years ago in an Artificial Intelligence class.
